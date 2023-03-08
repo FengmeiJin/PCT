@@ -1,7 +1,7 @@
 # PCT
-Paper Submission for PVLDB_v16 2023 (ID: 1356)
+_Paper Submission for PVLDB_v16 2023 (ID: 1356)_
 
-## Efficient Privacy-Preserving Contact Tracing with Semantic-Aware Indistinguishability Guarantee
+Title: Efficient Privacy-Preserving Contact Tracing with Semantic-Aware Indistinguishability Guarantee
 
 ### Project Structure
 
